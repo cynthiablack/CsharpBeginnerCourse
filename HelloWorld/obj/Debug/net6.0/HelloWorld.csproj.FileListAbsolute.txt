@@ -1,0 +1,15 @@
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/bin/Debug/net6.0/HelloWorld
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
