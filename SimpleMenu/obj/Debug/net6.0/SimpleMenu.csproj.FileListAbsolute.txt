@@ -1,0 +1,15 @@
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/bin/Debug/net6.0/SimpleMenu
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/bin/Debug/net6.0/SimpleMenu.deps.json
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/bin/Debug/net6.0/SimpleMenu.runtimeconfig.json
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/bin/Debug/net6.0/SimpleMenu.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/bin/Debug/net6.0/SimpleMenu.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/SimpleMenu.csproj.AssemblyReference.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/SimpleMenu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/SimpleMenu.AssemblyInfoInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/SimpleMenu.AssemblyInfo.cs
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/SimpleMenu.csproj.CoreCompileInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/SimpleMenu.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/refint/SimpleMenu.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/SimpleMenu.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/SimpleMenu.genruntimeconfig.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/SimpleMenu/obj/Debug/net6.0/ref/SimpleMenu.dll
