@@ -1,0 +1,15 @@
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/bin/Debug/net6.0/HammerBitcoin
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/bin/Debug/net6.0/HammerBitcoin.deps.json
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/bin/Debug/net6.0/HammerBitcoin.runtimeconfig.json
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/bin/Debug/net6.0/HammerBitcoin.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/bin/Debug/net6.0/HammerBitcoin.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/HammerBitcoin.csproj.AssemblyReference.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/HammerBitcoin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/HammerBitcoin.AssemblyInfoInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/HammerBitcoin.AssemblyInfo.cs
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/HammerBitcoin.csproj.CoreCompileInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/HammerBitcoin.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/refint/HammerBitcoin.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/HammerBitcoin.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/HammerBitcoin.genruntimeconfig.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/HammerBitcoin/obj/Debug/net6.0/ref/HammerBitcoin.dll
