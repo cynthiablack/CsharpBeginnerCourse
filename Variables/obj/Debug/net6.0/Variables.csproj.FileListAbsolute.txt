@@ -1,0 +1,15 @@
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/bin/Debug/net6.0/Variables
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/bin/Debug/net6.0/Variables.deps.json
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/bin/Debug/net6.0/Variables.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/bin/Debug/net6.0/Variables.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/Variables.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/refint/Variables.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/Variables.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/Variables/obj/Debug/net6.0/ref/Variables.dll
