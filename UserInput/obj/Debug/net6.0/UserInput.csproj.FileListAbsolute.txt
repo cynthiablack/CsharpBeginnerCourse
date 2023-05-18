@@ -1,0 +1,15 @@
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/bin/Debug/net6.0/UserInput
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/bin/Debug/net6.0/UserInput.deps.json
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/bin/Debug/net6.0/UserInput.runtimeconfig.json
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/bin/Debug/net6.0/UserInput.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/bin/Debug/net6.0/UserInput.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/UserInput.csproj.AssemblyReference.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/UserInput.AssemblyInfoInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/UserInput.AssemblyInfo.cs
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/UserInput.csproj.CoreCompileInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/UserInput.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/refint/UserInput.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/UserInput.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/UserInput.genruntimeconfig.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/UserInput/obj/Debug/net6.0/ref/UserInput.dll
