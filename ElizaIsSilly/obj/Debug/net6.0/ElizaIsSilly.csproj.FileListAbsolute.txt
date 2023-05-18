@@ -1,15 +1,5 @@
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/bin/Debug/net6.0/ElizaIsSilly
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/bin/Debug/net6.0/ElizaIsSilly.deps.json
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/bin/Debug/net6.0/ElizaIsSilly.runtimeconfig.json
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/bin/Debug/net6.0/ElizaIsSilly.dll
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/bin/Debug/net6.0/ElizaIsSilly.pdb
 /Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ElizaIsSilly.csproj.AssemblyReference.cache
 /Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ElizaIsSilly.GeneratedMSBuildEditorConfig.editorconfig
 /Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ElizaIsSilly.AssemblyInfoInputs.cache
 /Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ElizaIsSilly.AssemblyInfo.cs
 /Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ElizaIsSilly.csproj.CoreCompileInputs.cache
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ElizaIsSilly.dll
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/refint/ElizaIsSilly.dll
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ElizaIsSilly.pdb
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ElizaIsSilly.genruntimeconfig.cache
-/Users/Cindy/repos/CsharpBeginnerCourse/ElizaIsSilly/obj/Debug/net6.0/ref/ElizaIsSilly.dll

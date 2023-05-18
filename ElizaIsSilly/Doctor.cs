@@ -50,7 +50,7 @@ namespace ElizaIsSilly
                                                     "quit"
                                                 };
 
-        static Dictionary<string, string> reflections = new Dictionary<string, string> {
+        static Dictionary<string, string> Reflections = new Dictionary<string, string> {
                                                                                    {" am", " are"},
                                                                                    {" was", " were"},
                                                                                    {"I ", "you "},
@@ -112,7 +112,7 @@ namespace ElizaIsSilly
             new List<string> {"Please tell me more.", "Let's change focus a bit... Tell me about your family.", "Can you elaborate on that?", "Why do you say that %1?", "I see.", "Very interesting.", "%1?", "I see.  And what does that tell you?", "How does that make you feel?", "How do you feel when you say that?"},
         };
 
-        static Random random = new Random();
+        static Random randomNumbers = new Random();
 
         public static string Intro()
         {
@@ -125,60 +125,60 @@ namespace ElizaIsSilly
             "Hello. How are you feeling today?");
         }
 
-        public static string response(string userinput)
+        public static string response(string userInput)
         {
             // check through the matches list, and if there's a match, strip off the match and replace with the response.
             // 
             // If the response contains %1, replace that with the Remainder of the input string.
             // Before replacing, change words in the Remainder of the input with the corresponding entry from the reflections dictionary.
-            var output = "";
-            string Remainder = "";
-            for (var index = 0; index < matches.Count; index++)
+            string Output = "";
+            string remainder = "";
+            for (int index = 0; index < matches.Count; index++)
             {
                 string match = matches[index];
-                var position = userinput.ToLower().IndexOf(match);
+                int position = userInput.ToLower().IndexOf(match);
                 if (position > -1)
                 {
                     // found a match, delete everything up to the end of the text we found.
-                    string rem = userinput.Remove(0, position + match.Length);
+                    string remainder = userInput.Remove(0, position + match.Length);
 
                     // Now replace the reflections: I -> you, etc
                     // We need to split the input into words, to avoid changing eg. me -> you then the same you -> me.
-                    string[] words = rem.Split();
+                    string[] Words = remainder.Split();
 
-                    for (int i = 0; i < words.Length; i++)
+                    for (int i = 0; i < Words.Length; i++)
                     {
-                        foreach (string reflection in reflections.Keys)
+                        foreach (string Reflection in Reflections.Keys)
                         {
-                            if (words[i].Equals(reflection))
+                            if (Words[i].Equals(Reflection))
                             {
-                                words[i] = reflections[reflection];
+                                Words[i] = Reflections[Reflection];
                                 break;
                             }
                         }
                     }
                     // Now join the words back up again.
-                    rem = String.Join(" ", words);
+                    remainder = String.Join(" ", Words);
 
                     // Strip leading and trailing spaces.
-                    Remainder = rem.Trim();
+                    remainder = remainder.Trim();
 
-                    var randomIndex = random.Next(0, responses[index].Count);
-                    output = responses[index][randomIndex];
+                    int randomIndex = randomNumbers.Next(0, responses[index].Count);
+                    Output = responses[index][randomIndex];
                     break;
                 }
             }
 
             // If there wasn't a match, use the last item in the responses list.
-            if (output == "")
+            if (Output == "")
             {
-                int randomIndex = random.Next(0, responses[responses.Count - 1].Count);
-                output = responses[responses.Count - 1][randomIndex];
+                int randomIndex = randomNumbers.Next(0, responses[responses.Count - 1].Count);
+                Output = responses[responses.Count - 1][randomIndex];
             }
 
             // Now substitute the modified input for %1 (if it exists) in the response.
-            output = output.Replace("%1", Remainder);
-            return output;
+            Output = Output.Replace("%1", remainder);
+            return Output;
         }
     }
 }
