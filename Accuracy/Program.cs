@@ -23,7 +23,9 @@ namespace Accuracy
             Console.WriteLine($"2nd result is {result2}");
 
             decimal difference = result1 - result2;
-            Console.WriteLine($"The difference is {difference}");
+            Console.WriteLine($"The difference is {difference}")
+
+            bool checkResult = result1 - result2 == 0;
         }
     }
 }
