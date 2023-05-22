@@ -1,0 +1,15 @@
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/bin/Debug/net6.0/RockPaperScissorsSpock
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/bin/Debug/net6.0/RockPaperScissorsSpock.deps.json
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/bin/Debug/net6.0/RockPaperScissorsSpock.runtimeconfig.json
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/bin/Debug/net6.0/RockPaperScissorsSpock.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/bin/Debug/net6.0/RockPaperScissorsSpock.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/RockPaperScissorsSpock.csproj.AssemblyReference.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/RockPaperScissorsSpock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/RockPaperScissorsSpock.AssemblyInfoInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/RockPaperScissorsSpock.AssemblyInfo.cs
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/RockPaperScissorsSpock.csproj.CoreCompileInputs.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/RockPaperScissorsSpock.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/refint/RockPaperScissorsSpock.dll
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/RockPaperScissorsSpock.pdb
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/RockPaperScissorsSpock.genruntimeconfig.cache
+/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/Debug/net6.0/ref/RockPaperScissorsSpock.dll
