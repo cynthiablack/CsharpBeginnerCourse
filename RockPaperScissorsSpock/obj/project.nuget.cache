@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AmVVSgllm07M1vWYg0hh8FPPctPqQletkrDLQ1P89MsTMhqgnpaZftZku5RVjnfHWWVaT67YpdIbEKZrIhIhYw==",
+  "dgSpecHash": "5YLlP2IrDfZj4PRBtxM0gSXKKiOEvHU7xMkwmiir/bADAJ5dsL5HdfnwfDSwezVjHEuGROaXjTLdTIso4yMHtg==",
   "success": true,
-  "projectFilePath": "/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/RockPaperScissorsSpock.csproj",
+  "projectFilePath": "/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/RockPaperScissors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

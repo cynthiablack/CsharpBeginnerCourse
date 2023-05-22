@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/RockPaperScissorsSpock.csproj",
-      "projectName": "RockPaperScissorsSpock",
-      "projectPath": "/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/RockPaperScissorsSpock.csproj",
+      "projectUniqueName": "/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/RockPaperScissors.csproj",
+      "projectName": "RockPaperScissors",
+      "projectPath": "/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/RockPaperScissors.csproj",
       "packagesPath": "/Users/Cindy/.nuget/packages/",
       "outputPath": "/Users/Cindy/repos/CsharpBeginnerCourse/RockPaperScissorsSpock/obj/",
       "projectStyle": "PackageReference",
