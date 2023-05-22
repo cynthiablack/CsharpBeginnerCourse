@@ -6,7 +6,7 @@ namespace SimpleMenu
     {
         static void Main(string[] args)
         {
-            char userChoice = ' ';
+            char userChoice;
 
             Console.WriteLine("Please choose one of the following options");
             Console.WriteLine("1 - Cappacino");
@@ -17,19 +17,10 @@ namespace SimpleMenu
             Console.WriteLine("6 - Espresso");
             Console.WriteLine("Q - Quit the program");
 
-            while (!userChoice.Equals('q'))
+            do
             {
                 userChoice = char.ToLower(Console.ReadKey(true).KeyChar);
                 Console.WriteLine("You chose " + userChoice);
-
-                //var x = userChoice.Key;
-                //char y = userChoice.KeyChar;
-                //var z = userChoice.Modifiers;
-
-                //Console.WriteLine("Key: " + x);
-                //Console.WriteLine("KeyChar: " + y);
-                //Console.WriteLine("Modifiers: " + z);
-            }
-        }
+            } while (!userChoice.Equals('q'));
     }
 }
