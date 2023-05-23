@@ -8,8 +8,8 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="BitcoinMiner.cs">
     <Files>
-      <File FileName="Program.cs" Line="12" Column="56" />
-      <File FileName="BitcoinMiner.cs" Line="417" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="BitcoinMiner.cs" Line="281" Column="95" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
