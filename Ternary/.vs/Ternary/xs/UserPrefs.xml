@@ -1,20 +1,20 @@
-﻿<Properties StartupConfiguration="{9BDDCFC3-5C7F-4962-88CE-3127C20B128B}|Default">
+﻿<Properties StartupConfiguration="{8FB8CEDB-2C1A-4015-AB7F-DC5A282CA142}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.SimpleMenu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ternary FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="72" Column="2" />
+      <File FileName="Program.cs" Line="27" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SimpleMenu" expanded="True">
-            <Node name="SimpleMenu" expanded="True">
+          <Node name="Ternary" expanded="True">
+            <Node name="Ternary" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

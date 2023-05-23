@@ -62,8 +62,11 @@ namespace SimpleMenu
                         break;
                     default:
                         Console.WriteLine("Returning coins");
-                        break;
+                        continue;
                 }
+
+                Console.WriteLine("Dispensing beverage.");
+                Console.WriteLine("Have a nice day!");
             } while (!userChoice.Equals('q'));
     }
 }

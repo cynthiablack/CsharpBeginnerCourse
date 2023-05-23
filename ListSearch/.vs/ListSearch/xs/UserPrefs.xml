@@ -1,20 +1,20 @@
-﻿<Properties StartupConfiguration="{9BDDCFC3-5C7F-4962-88CE-3127C20B128B}|Default">
+﻿<Properties StartupConfiguration="{543A9F56-5A32-4933-AA42-4697D52970B2}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListSearch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.SimpleMenu PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="72" Column="2" />
+      <File FileName="Program.cs" Line="58" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SimpleMenu" expanded="True">
-            <Node name="SimpleMenu" expanded="True">
+          <Node name="ListSearch" expanded="True">
+            <Node name="ListSearch" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
