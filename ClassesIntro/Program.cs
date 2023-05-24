@@ -34,14 +34,14 @@ namespace ClassesIntro
         public void Accelerate()
         {
             speed++;
-            showSpeed();
+            ShowSpeed();
         }
         public void Brake()
         {
             speed--;
-            showSpeed();
+            ShowSpeed();
         }
-        private void showSpeed()
+        private void ShowSpeed()
         {
             Console.WriteLine($"{name} is going {speed} kilometers per hour.");
         }
